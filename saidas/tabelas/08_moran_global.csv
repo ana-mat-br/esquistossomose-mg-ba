@@ -1,0 +1,6 @@
+indicador;variavel;n;I;I_esperado;p_valor;n_sim;p_fmt;interpretacao
+Incidência bruta;inc_sinan_bruta;503;0,0941949169981212;-0,00199203187250996;0,0096;9999;0,010;Autocorrelação positiva (clusterização)
+Incidência EB global;inc_sinan_ebg;503;0,0933892798375873;-0,00199203187250996;0,0104;9999;0,010;Autocorrelação positiva (clusterização)
+Incidência EB local;inc_sinan_ebl;503;0,0982079467716664;-0,00199203187250996;0,0092;9999;0,009;Autocorrelação positiva (clusterização)
+RME (razão de morbidade padr.);rme_sinan;503;0,0941949169981213;-0,00199203187250996;0,0092;9999;0,009;Autocorrelação positiva (clusterização)
+Incidência SINAN — I de Moran EB (Assunção-Reis);EBI_sinan;503;0,0937903244352466;-0,00199203187250996;0,0099;9999;0,010;Autocorrelação positiva (clusterização)

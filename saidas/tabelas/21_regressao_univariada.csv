@@ -1,0 +1,17 @@
+desfecho;covariavel;rotulo;incremento;n;RR_IC;p_fmt;RR;RR_li;RR_ls;p_valor
+Incidência SINAN;idhm;IDHM (geral);por 1 DP de aumento;503;0.79 (0.61–1.01);0,063;0,787286269471475;0,611768555578530;1,013160392841975;0,0631163706337125319
+Incidência SINAN;idhm_renda;IDHM Renda;por 1 DP de aumento;503;0.73 (0.61–0.88);<0,001;0,732014812563820;0,609650252154867;0,878939496734148;0,0008298614011448143
+Incidência SINAN;idhm_educacao;IDHM Educação;por 1 DP de aumento;503;0.80 (0.59–1.09);0,161;0,801249709975298;0,587717866664864;1,092362737547316;0,1611290189199777734
+Incidência SINAN;idhm_longevidade;IDHM Longevidade;por 1 DP de aumento;503;0.89 (0.61–1.28);0,522;0,886780616191944;0,613951625950467;1,280849871578006;0,5218392853418682975
+Incidência SINAN;gini;Índice de Gini da renda domiciliar;por 1 DP de aumento;503;0.61 (0.45–0.85);0,003;0,614086533603183;0,445798644566835;0,845902685772380;0,0028440402951120511
+Incidência SINAN;pct_pobres;% de pessoas pobres;por 10 p.p. de aumento;503;1.36 (1.07–1.73);0,011;1,363159696632526;1,072096686277862;1,733243262764528;0,0114701690748221785
+Incidência SINAN;pct_extrem_pobres;% de pessoas extremamente pobres;por 10 p.p. de aumento;503;1.40 (1.04–1.88);0,028;1,395036880333342;1,036437258066339;1,877709318479188;0,0280891509054622263
+Incidência SINAN;pct_vulner_pobreza;% de vulneráveis à pobreza;por 10 p.p. de aumento;503;1.37 (1.07–1.76);0,011;1,373896596017556;1,074449154601712;1,756799610725498;0,0113268856482870751
+Incidência SINAN;renda_per_capita;Renda domiciliar per capita (R$);por aumento de 1 unidade em log;503;0.32 (0.16–0.62);<0,001;0,316625094586385;0,161194963899057;0,621926691113109;0,0008414371371691488
+Incidência SINAN;taxa_analfabetismo;Taxa de analfabetismo (15 anos ou mais);por 10 p.p. de aumento;503;1.64 (1.09–2.46);0,017;1,641102380901648;1,092856006871943;2,464384152775801;0,0169396911975274143
+Incidência SINAN;pct_agua_rede;% domicílios com água de rede geral;por 10 p.p. de aumento;503;0.70 (0.59–0.83);<0,001;0,699605983555352;0,590044727837569;0,829510898301239;0,0000394025662196532
+Incidência SINAN;pct_esgoto_adeq;% domicílios com esgotamento adequado;por 10 p.p. de aumento;503;0.82 (0.72–0.93);0,002;0,816350656874288;0,720043240051563;0,925539409176813;0,0015344462313690852
+Incidência SINAN;pct_lixo_coletado;% domicílios com coleta de lixo;por 10 p.p. de aumento;503;0.68 (0.58–0.81);<0,001;0,684730811232741;0,577765897752329;0,811498715440683;0,0000124176228877817
+Incidência SINAN;pct_agua_superficial;% domicílios abastecidos por rio/córrego/açude;por duplicação aproximada do percentual;503;2.11 (1.48–3.02);<0,001;2,111586756771784;1,477905424849406;3,016971557451533;0,0000403169420710808
+Incidência SINAN;pct_esgoto_em_corpo_dagua;% domicílios com esgoto lançado em rio/lago/córrego;por duplicação aproximada do percentual;503;0.72 (0.35–1.48);0,373;0,720501255081850;0,350431761530255;1,481378446712803;0,3727237045496153423
+Incidência SINAN;dens_demografica;Densidade demográfica (hab/km²);por aumento de 1 unidade em log;503;0.67 (0.57–0.79);<0,001;0,668994704837003;0,565450123742477;0,791500251406396;0,0000027944915330594

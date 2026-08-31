@@ -1,0 +1,8 @@
+covariavel;rotulo;I_bivariado;p_valor;n;p_aj;p_fmt
+pct_lixo_coletado;% domicílios com coleta de lixo;-0,09261583606109294;0,003;503;0,010500000000000;0,011
+pct_agua_rede;% domicílios com água de rede geral;-0,09111954965495257;0,001;503;0,007000000000000;0,007
+gini;Índice de Gini da renda domiciliar;-0,02808136735386161;0,328;503;0,765333333333333;0,765
+pct_esgoto_adeq;% domicílios com esgotamento adequado;-0,02148364604993108;0,496;503;0,765800000000000;0,766
+idhm;IDHM (geral);0,01997811415183014;0,547;503;0,765800000000000;0,766
+idhm_educacao;IDHM Educação;0,00982567142904086;0,752;503;0,877333333333333;0,877
+idhm_renda;IDHM Renda;-0,00489306465989779;0,882;503;0,882000000000000;0,882

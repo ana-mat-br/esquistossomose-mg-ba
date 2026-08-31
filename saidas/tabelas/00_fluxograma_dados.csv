@@ -1,0 +1,12 @@
+etapa;n;obs
+Municípios na área de estudo;503;BA=417, N-MG=86
+SINAN — registros brutos;24024;
+SINAN — após remoção de duplicatas;23945;"79 removidos; chaves: dt_notific+id_municip+id_mn_resi+dt_sin_pri+ano_nasc+cs_sexo+nu_idade_n+cs_raca+id_ocupa_n"
+SINAN — código de residência ausente/ignorado (não localizado na lista nacional do IBGE);8;
+SINAN — com município de residência válido (todo o Brasil);23937;
+SINAN — dentro do período 2018-2025;22917;
+SINAN — residentes na área de estudo;3711;
+PCE — registros município-ano;0;0 exames, 0 positivos
+Ano-base do bloco socioeconômico (Atlas DH);2010;"11 indicadores; covariáveis estruturais fixas"
+Painel final — linhas município-ano;4024;
+Painel — com dado de PCE;0;0% das células

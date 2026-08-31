@@ -1,0 +1,8 @@
+*.bruto.rds
+*.dbc
+*.DBC
+*.dbf
+*.DBF
+*.gpkg
+*.zip
+*.Rproj

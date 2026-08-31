@@ -1,0 +1,8 @@
+covariavel;p_valor;p_fmt;conclusao
+(Intercept);0,03;0,030;Efeito não estacionário no espaço
+idhm;0,02;0,020;Efeito não estacionário no espaço
+pct_agua_superficial;0,41;0,410;Efeito estacionário
+pct_esgoto_em_corpo_dagua;0,60;0,600;Efeito estacionário
+pct_agua_rede;0,44;0,440;Efeito estacionário
+pct_esgoto_adeq;0,82;0,820;Efeito estacionário
+dens_demografica;0,01;0,010;Efeito não estacionário no espaço
