@@ -1,6 +1,7 @@
 # Esquistossomose na Região Endêmica, 2018–2025
 ### Norte de Minas Gerais e Bahia — análise espaço-temporal e determinantes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22216549.svg)](https://doi.org/10.5281/zenodo.22216549)
 [![Dados: CC0 1.0](https://img.shields.io/badge/Dados-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Código: MIT](https://img.shields.io/badge/C%C3%B3digo-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
