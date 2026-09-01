@@ -1,13 +1,15 @@
-# Esquistossomose na Região Endêmica, 2018–2025
-### Norte de Minas Gerais e Bahia — análise espaço-temporal e determinantes
+# Dinâmica espaço-temporal e transbordamento espacial do saneamento na esquistossomose
+### Estudo ecológico no corredor Minas Gerais–Bahia, Brasil, 2018–2025
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22216549.svg)](https://doi.org/10.5281/zenodo.22216549)
 [![Dados: CC0 1.0](https://img.shields.io/badge/Dados-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Código: MIT](https://img.shields.io/badge/C%C3%B3digo-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Pipeline em R para avaliar a dinâmica espaço-temporal da esquistossomose no
-corredor epidemiológico MG–BA e sua associação com indicadores socioeconômicos
-e de saneamento.
+Pipeline em R que sustenta o artigo homônimo: avalia a dinâmica espaço-temporal
+da esquistossomose no corredor epidemiológico MG–BA, sua associação com
+indicadores socioeconômicos e de saneamento e o transbordamento espacial do
+esgotamento sanitário entre municípios vizinhos, pela decomposição dos efeitos
+diretos e indiretos do modelo autorregressivo espacial.
 
 ---
 
